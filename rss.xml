@@ -10,31 +10,13 @@
         </author>
         <description>code and life</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 30 May 2022 23:05:04 +0800</pubDate>
-        <lastBuildDate>Mon, 30 May 2022 23:05:04 +0800</lastBuildDate>
-        <item>
-            <guid isPermalink="true">http://example.com/2022/05/30/typora%E9%85%8D%E7%BD%AE%E5%9B%BE%E7%89%87%E6%9C%8D%E5%8A%A1/</guid>
-            <title>typora配置图片服务</title>
-            <link>http://example.com/2022/05/30/typora%E9%85%8D%E7%BD%AE%E5%9B%BE%E7%89%87%E6%9C%8D%E5%8A%A1/</link>
-            <category term="typora" scheme="http://example.com/tags/typora/" />
-            <pubDate>Mon, 30 May 2022 23:05:04 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;1 创建一个 github 仓库&lt;/p&gt;
-&lt;p&gt;2 github 生成 token&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;github -&amp;gt; settings -&amp;gt; Developer settings -&amp;gt; Personal access tokens -&amp;gt; Generate new token
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;3 typora 安装 PicGo app&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;安装完成后 设置PicGo 图床设置 配置GitHub图床 
-token 为2步骤生成的token
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;4 将 PicGo 的默认图床设置为 GitHub&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;完成&lt;/strong&gt;&lt;/p&gt;
- ]]></description>
-        </item>
+        <pubDate>Mon, 30 May 2022 23:20:10 +0800</pubDate>
+        <lastBuildDate>Mon, 30 May 2022 23:20:10 +0800</lastBuildDate>
         <item>
             <guid isPermalink="true">http://example.com/2022/05/30/hello-world/</guid>
             <title>Hello World</title>
             <link>http://example.com/2022/05/30/hello-world/</link>
-            <pubDate>Mon, 30 May 2022 14:19:29 +0800</pubDate>
+            <pubDate>Mon, 30 May 2022 23:20:10 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
@@ -45,6 +27,20 @@ token 为2步骤生成的token
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
 &lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/05/30/typora%E9%85%8D%E7%BD%AE%E5%9B%BE%E7%89%87%E6%9C%8D%E5%8A%A1/</guid>
+            <title>typora配置图片服务</title>
+            <link>http://example.com/2022/05/30/typora%E9%85%8D%E7%BD%AE%E5%9B%BE%E7%89%87%E6%9C%8D%E5%8A%A1/</link>
+            <category term="typora" scheme="http://example.com/tags/typora/" />
+            <pubDate>Mon, 30 May 2022 23:05:04 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;typore-中配置图片上传服务github-不再存放到本地&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#typore-中配置图片上传服务github-不再存放到本地&#34;&gt;#&lt;/a&gt; typore 中配置图片上传服务 GitHub 不再存放到本地&lt;/h2&gt;
+&lt;h3 id=&#34;1-创建一个github仓库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-创建一个github仓库&#34;&gt;#&lt;/a&gt; 1 创建一个 github 仓库&lt;/h3&gt;
+&lt;h3 id=&#34;2-github-生成token&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-github-生成token&#34;&gt;#&lt;/a&gt; 2 github 生成 token&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;### github -&gt; settings -&gt; Developer settings -&gt; Personal access tokens -&gt; Generate new token&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;3-typora-安装picgo-app&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-typora-安装picgo-app&#34;&gt;#&lt;/a&gt; 3 typora 安装 PicGo app&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;安装完成后 设置PicGo 图床设置 配置GitHub图床 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;token 为2步骤生成的token&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;4-将picgo的默认图床设置为github&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-将picgo的默认图床设置为github&#34;&gt;#&lt;/a&gt; 4 将 PicGo 的默认图床设置为 GitHub&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;完成&lt;/strong&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
