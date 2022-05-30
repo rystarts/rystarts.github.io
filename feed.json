@@ -12,7 +12,9 @@
             "title": "typora配置图片服务",
             "date_published": "2022-05-30T15:05:04.000Z",
             "content_html": "<p>1 创建一个 github 仓库</p>\n<p>2 github 生成 token</p>\n<pre><code>github -&gt; settings -&gt; Developer settings -&gt; Personal access tokens -&gt; Generate new token\n</code></pre>\n<p>3 typora 安装 PicGo app</p>\n<pre><code>安装完成后 设置PicGo 图床设置 配置GitHub图床 \ntoken 为2步骤生成的token\n</code></pre>\n<p>4 将 PicGo 的默认图床设置为 GitHub</p>\n<p><strong>完成</strong></p>\n",
-            "tags": []
+            "tags": [
+                "typora"
+            ]
         },
         {
             "id": "http://example.com/2022/05/30/hello-world/",

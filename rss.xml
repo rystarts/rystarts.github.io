@@ -16,6 +16,7 @@
             <guid isPermalink="true">http://example.com/2022/05/30/typora%E9%85%8D%E7%BD%AE%E5%9B%BE%E7%89%87%E6%9C%8D%E5%8A%A1/</guid>
             <title>typora配置图片服务</title>
             <link>http://example.com/2022/05/30/typora%E9%85%8D%E7%BD%AE%E5%9B%BE%E7%89%87%E6%9C%8D%E5%8A%A1/</link>
+            <category term="typora" scheme="http://example.com/tags/typora/" />
             <pubDate>Mon, 30 May 2022 23:05:04 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;1 创建一个 github 仓库&lt;/p&gt;
 &lt;p&gt;2 github 生成 token&lt;/p&gt;
