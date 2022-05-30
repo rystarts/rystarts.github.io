@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
+        <title>就这样一直坚持下去吧~</title>
         <subtitle></subtitle>
         <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
         <author>
-          <name>Ry stars</name>
+          <name>Ry Stars</name>
         </author>
-        <description></description>
-        <language>en</language>
+        <description>code and life</description>
+        <language>zh-CN</language>
         <pubDate>Mon, 30 May 2022 14:19:29 +0800</pubDate>
         <lastBuildDate>Mon, 30 May 2022 14:19:29 +0800</lastBuildDate>
         <item>
